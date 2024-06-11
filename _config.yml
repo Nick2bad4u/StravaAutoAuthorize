@@ -1,0 +1,6 @@
+remote_theme: pages-themes/modernist@v0.2.0
+title: Strava Auto Authorize
+description: Auto allows Strava apps without having to click "authorize" every single time.
+url: "https://strava.github.typpi.online" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
