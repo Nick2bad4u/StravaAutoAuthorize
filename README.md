@@ -19,6 +19,6 @@ Auto authorizes Strava apps via GreaseMoney or Tampermonkey
     // @license MIT
     // ==/UserScript==
 
-setTimeout(function() {
-    document.getElementsByClassName("btn")[0].click();
-}, 1000)
+    setTimeout(function() {
+        document.getElementsByClassName("btn")[0].click();
+    }, 1000)
