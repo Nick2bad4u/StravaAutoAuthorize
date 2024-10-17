@@ -1,4 +1,10 @@
+[![CodeQL](https://github.com/Nick2bad4u/StravaAutoAuthorize/actions/workflows/codeql.yml/badge.svg)](https://github.com/Nick2bad4u/StravaAutoAuthorize/actions/workflows/codeql.yml)
+[![Dependabot Updates](https://github.com/Nick2bad4u/StravaAutoAuthorize/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/Nick2bad4u/StravaAutoAuthorize/actions/workflows/dependabot/dependabot-updates)
+[![Dependency Review](https://github.com/Nick2bad4u/StravaAutoAuthorize/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/Nick2bad4u/StravaAutoAuthorize/actions/workflows/dependency-review.yml)
+[![pages-build-deployment](https://github.com/Nick2bad4u/StravaAutoAuthorize/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Nick2bad4u/StravaAutoAuthorize/actions/workflows/pages/pages-build-deployment)
+[![Scorecard supply-chain security](https://github.com/Nick2bad4u/StravaAutoAuthorize/actions/workflows/scorecards.yml/badge.svg)](https://github.com/Nick2bad4u/StravaAutoAuthorize/actions/workflows/scorecards.yml)
 
+![RepoBeats](https://repobeats.axiom.co/api/embed/a9801c5f4cd4fa2067c257523bb61d7f73005bac.svg "Repobeats analytics image")
 # StravaAutoAuthorize
 Auto authorizes Strava apps via GreaseMoney or Tampermonkey
 
